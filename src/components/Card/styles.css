@@ -1,0 +1,23 @@
+.card {
+  background: #fff;
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.data_user {
+  margin: 10px 20px;
+  display: flex;
+}
+
+.name_user {
+  margin: 10px 10px;
+}
+span {
+  color: gray;
+  font-weight: initial;
+}
+.data_publication {
+  margin: 30px;
+}
